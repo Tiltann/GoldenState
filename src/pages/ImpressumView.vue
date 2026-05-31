@@ -7,7 +7,7 @@ import PageHero from '@/components/PageHero.vue'
     <PageHero
       eyebrow="Rechtliches"
       title="Impressum"
-      subtitle="Angaben gemäß § 5 TMG"
+      subtitle="Angaben gemäß § 5 DDG"
     />
 
     <section class="mx-auto max-w-2xl px-5 sm:px-8 space-y-5">
@@ -15,12 +15,14 @@ import PageHero from '@/components/PageHero.vue'
       <article class="glass rounded-2xl p-7">
         <h2 class="font-display text-lg text-gold-100 mb-4">Verantwortlich</h2>
         <div class="space-y-1 text-sm text-zinc-300 leading-relaxed">
-          <p>GoldenState Community</p>
+          <p>Lucas Erdmann</p>
+          <p>Siedlung 21</p>
+          <p>15838 Am Mellensee</p>
           <p>Deutschland</p>
           <p>
             E-Mail:
-            <a href="mailto:kontakt@goldenstate-rp.de" class="text-gold-300 hover:text-gold-100 underline underline-offset-2">
-              kontakt@goldenstate-rp.de
+            <a href="mailto:lucas.erdmann@proton.me" class="text-gold-300 hover:text-gold-100 underline underline-offset-2">
+              lucas.erdmann@proton.me
             </a>
           </p>
         </div>
@@ -31,8 +33,8 @@ import PageHero from '@/components/PageHero.vue'
         <p class="text-sm text-zinc-400 leading-relaxed">
           Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit,
           Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
-          Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten
-          nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als
+          Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten
+          nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als
           Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde
           Informationen zu überwachen.
         </p>
@@ -62,6 +64,18 @@ import PageHero from '@/components/PageHero.vue'
           GoldenState ist ein Fan-Projekt und steht in keiner Verbindung zu Rockstar Games oder
           Take-Two Interactive. GTA V und alle damit verbundenen Marken sind Eigentum der
           jeweiligen Rechteinhaber.
+        </p>
+      </article>
+
+      <article class="glass rounded-2xl p-7">
+        <h2 class="font-display text-lg text-gold-100 mb-4">
+          Hinweis zu physischen Sendungen
+        </h2>
+        <p class="text-sm text-zinc-400 leading-relaxed">
+    Die im Impressum angegebene Anschrift dient ausschließlich der
+    gesetzlichen Anbieterkennzeichnung. Pakete, Briefe oder sonstige
+    physische Sendungen werden nicht angenommen oder verarbeitet. Die
+    Kommunikation mit dem Projekt erfolgt ausschließlich auf digitalem Weg.
         </p>
       </article>
 
