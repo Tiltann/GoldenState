@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue'
 
 
 export default defineConfig({
-  base: '/',
+  base: '/GoldenState/',
   plugins: [vue()],
   resolve: {
     alias: {
