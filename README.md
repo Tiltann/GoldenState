@@ -5,7 +5,7 @@ Tailwind CSS.
 
 Soll später auf domain https://golden-state.tech laufen und ist jetzt auf der website
 
-githubpages website erreichbar
+[githubpages](https://tiltann.github.io/GoldenState/) website erreichbar
 
 ## Lokal starten
 

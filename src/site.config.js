@@ -2,7 +2,7 @@
 
 export const site = {
   name: 'GoldenState',
-  tagline: 'Roleplay im modernen Los Santos.',
+  tagline: '',
 
   // Solange wir in der Beta sind, bleibt das auf true.
   // Dann wird statt Spielerzahlen ein "Beta"-Status angezeigt.
