@@ -1,13 +1,13 @@
 // Streamer, die GoldenState spielen.
 
 export const streams = [
-  {
-    name: 'GoldenTV',
-    platform: 'twitch',
-    channel: 'goldenstate',
-    live: false,
-    title: 'GoldenState  Beta Showcase',
-  },
+  // {
+  //   name: 'GoldenTV',
+  //   platform: 'twitch',
+  //   channel: 'goldenstate',
+  //   live: false,
+  //   title: 'GoldenState  Beta Showcase',
+  // },
 ]
 
 export function streamUrl(s) {
