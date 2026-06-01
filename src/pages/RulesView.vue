@@ -351,11 +351,11 @@ const sections = [
 
 <template>
   <div class="pb-24">
-    <PageHero
+    <!-- <PageHero
       eyebrow="Damit alle Spaß haben"
       title="Regelwerk"
       subtitle="Klare Regeln sind die Grundlage für gutes Roleplay. Lies sie aufmerksam, bevor du deinen ersten Tag in Los Santos verbringst."
-    />
+    /> -->
 
     <!-- Quick nav -->
     <nav v-reveal class="mx-auto mb-12 max-w-3xl px-5 sm:px-8">

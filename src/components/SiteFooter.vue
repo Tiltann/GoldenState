@@ -26,7 +26,7 @@ const year = new Date().getFullYear()
           <ul class="mt-4 space-y-2 text-sm">
             <li><RouterLink to="/charaktere" class="text-zinc-400 hover:text-gold-100">Charaktere</RouterLink></li>
             <li><RouterLink to="/unternehmen" class="text-zinc-400 hover:text-gold-100">Unternehmen</RouterLink></li>
-            <li><RouterLink to="/regelwerk" class="text-zinc-400 hover:text-gold-100">Regelwerk</RouterLink></li>
+            <!-- <li><RouterLink to="/regelwerk" class="text-zinc-400 hover:text-gold-100">Regelwerk</RouterLink></li> -->
             <li><RouterLink to="/changelog" class="text-zinc-400 hover:text-gold-100">Changelog</RouterLink></li>
             <li><RouterLink to="/impressum" class="text-zinc-400 hover:text-gold-100">Impressum</RouterLink></li>
           </ul>
@@ -36,7 +36,7 @@ const year = new Date().getFullYear()
           <h4 class="eyebrow">Community</h4>
           <ul class="mt-4 space-y-2 text-sm">
             <li><a :href="site.links.discord" target="_blank" rel="noopener" class="text-zinc-400 hover:text-gold-100">Discord</a></li>
-            <li><a :href="site.links.wiki" target="_blank" rel="noopener" class="text-zinc-400 hover:text-gold-100">Wiki</a></li>
+            <li><a :href="site.links.wiki" target="_blank" rel="noopener" class="text-zinc-400 hover:text-gold-100">Wiki & Regeln</a></li>
             <li><RouterLink to="/streams" class="text-zinc-400 hover:text-gold-100">Streams</RouterLink></li>
             <li><RouterLink to="/events" class="text-zinc-400 hover:text-gold-100">Events</RouterLink></li>
           </ul>
