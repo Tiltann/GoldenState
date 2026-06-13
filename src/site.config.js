@@ -9,8 +9,8 @@ export const site = {
   isBeta: true,
 
   links: {
-    discord: 'https://discord.golden-state.tech',
-    wiki: 'https://wiki.golden-state.tech',
+    discord: 'https://discord.gstate.tech',
+    wiki: 'https://wiki.gstate.tech',
     // Mastodon ist noch nicht eingerichtet  sobald es steht, hier eintragen,
     // dann erscheinen Events/Changelog automatisch live.
     mastodon: '',
@@ -28,7 +28,7 @@ export const discord = {
 }
 
 // Mastodon-Accounts für Events bzw. Changelog.
-// Beispiel: { instance: 'https://social.golden-state.tech', accountId: '109...' }
+// Beispiel: { instance: 'https://social.gstate.tech', accountId: '109...' }
 export const mastodon = {
   events: { instance: '', accountId: '' },
   changelog: { instance: '', accountId: '' },

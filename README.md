@@ -3,7 +3,7 @@
 Website für das GTA-V Roleplay-Projekt **GoldenState**. Gebaut mit Vue 3, Vite und
 Tailwind CSS.
 
-Soll später auf domain https://golden-state.tech laufen und ist jetzt auf der website
+Soll später auf domain https://gstate.tech laufen und ist jetzt auf der website
 
 [githubpages](https://tiltann.github.io/GoldenState/) website erreichbar
 
